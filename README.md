@@ -4,6 +4,8 @@
 
   As an enthusiastic candidate, I am looking for DevOps Engineer and AWS Cloud Engineer role. I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problemsolving, and experience in automation and troubleshooting.
 
+#### Looking for DevOps/Cloud technology related roles.
+
 ### Skills :-
  -  Linux 
  -  AWS cloud 
