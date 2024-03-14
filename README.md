@@ -5,7 +5,7 @@
 ### Believe In (CLCI) - Continuous Learning Continuous Improvement 
 
 ####  As an enthusiastic candidate, I am looking for DevOps Engineer and AWS Cloud Engineer roles. 
-I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problemsolving, and experience in automation and troubleshooting.
+I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problemsolving, automation and troubleshooting.
 
 ### Skills :-
  -  Linux 
