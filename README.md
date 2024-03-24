@@ -22,6 +22,14 @@ I excel in both collaborative team settings and as an independent contributor, p
  -  Adaptability
  -  TeamPlayer
 
+ ###  Potency :-
+ -  Comprehensive problem-solving abilities
+ -  Belief in methodical and organized ways of working
+ -  Good verbal and written communication skills
+ -  Willingness to learn
+ -  Hardworking nature
+ -  Team facilitator
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
