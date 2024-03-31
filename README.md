@@ -32,15 +32,10 @@ I excel in both collaborative team settings and as an independent contributor, p
 
 ###  Profile Summary:
 
-Hello! My name is Ashwani Kumar, and I'm excited to explore opportunities within your company. Even though I don't have a technical background, I've worked in various sectors with dedication and enthusiasm.
-
-I started in sales and marketing and later became a District Service Head for a big company, leading a team of 40 people. I'm great at managing workloads and ensuring things get done on time.
-
-In my previous roles, I handled important tasks like navigating audits and managing client relationships with big names like Tata Hitachi and L&T.
-
-Recently, I've been learning AWS cloud and Java development. I've even worked as an AWS Cloud Engineer, where I got hands-on experience with cloud technologies.
+Dedicated and adaptable professional with a diverse background spanning sales, management, and technical roles. Skilled in team leadership and workload management, with a track record of ensuring timely delivery and exceeding expectations. Proficient in documentation and quality control processes, adept at navigating audits and maintaining standards. Experience in client management and relationship building with major industry players. Currently transitioning into a technical role, with hands-on experience in AWS cloud and Java development. Seeking opportunities to leverage managerial and technical expertise to contribute to the success of a reputable organization and further enhance skills.
 
 I believe my mix of management and technical skills, along with my understanding of how things flow in a company, could be a real asset to your team.
+
 
 ###  Career Objective:
 To join a reputed organization and grow along with it, thereby enriching and enhancing my technical and professional skills.
