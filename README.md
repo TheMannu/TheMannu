@@ -5,9 +5,8 @@
 #### As an enthusiastic candidate, I am looking for Cloud Support Engineer roles or DevOps Roles. 
 I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.
 
-![Ashwani Kumar](https://github.com/TheMannu/TheMannu/assets/84488161/d61d4dc4-be6e-4145-9db1-1808b04443ff)
 
-## [Portfolio](https://themannu.github.io/Portfolio/)
+# [Portfolio](https://themannu.github.io/Portfolio/)
 
 ### Skills:
 - Linux
