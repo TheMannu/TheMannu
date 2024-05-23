@@ -5,14 +5,16 @@
 #### As an enthusiastic candidate, I am looking for Cloud Support Engineer roles or DevOps Roles. 
 I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.
 
+# [Linkedin](https://www.linkedin.com/in/ashwank)
+# [Portfolio](https://themannu.github.io/Portfolio/)  
 
-# [Portfolio](https://themannu.github.io/Portfolio/)  [Linkedin](https://www.linkedin.com/in/ashwank)
 
 ### Skills:
 - Linux
 - AWS cloud
 - Git and GitHub
 - Docker and DockerHub
+- Terraform 
 - Jenkins
 - Kubernetes
 - Java
