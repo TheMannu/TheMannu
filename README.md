@@ -10,14 +10,18 @@ I excel in both collaborative team settings and as an independent contributor, p
 
 
 ### Skills:
-- Linux
-- AWS cloud
-- Git and GitHub
-- Docker and DockerHub
-- Terraform 
-- Jenkins
-- Kubernetes
-- Java
+
+- AWS Cloud
+- Linux - Ubuntu
+- Scripting - Bash
+- Version Control System - Git, GitHub
+- Containerization - Docker
+- CI / CD - Jenkins, Github Actions
+- Infrastructure as Code - Terraform
+- Orchestration - Kubernetes
+- Programming Language - Java
+- Data Structure Algorithm
+- Documentation
 
 ### Soft Skills:
 - Leadership
