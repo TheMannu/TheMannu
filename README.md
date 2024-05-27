@@ -1,6 +1,6 @@
 # Hello 👋, I'm Ashwani Kumar
 
-### Believe In (CLCI) - Continuous Learning Continuous Improvement 
+*** ### Believe In (CLCI) - Continuous Learning Continuous Improvement ***
 
 #### As an enthusiastic candidate, I am looking for Cloud Support Engineer roles or DevOps Roles. 
 I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.
