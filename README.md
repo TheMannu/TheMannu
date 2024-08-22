@@ -39,9 +39,9 @@ I excel in both collaborative team settings and as an independent contributor, p
 - Team facilitator
 
 ### Profile Summary:
-Dedicated and adaptable professional with a diverse background spanning sales, management, and technical roles. Skilled in team leadership and workload management, with a track record of ensuring timely delivery and exceeding expectations. Proficient in documentation and quality control processes, adept at navigating audits and maintaining standards. Experience in client management and relationship building with major industry players. Currently transitioning into a technical role, with hands-on experience in AWS cloud Services, DevOps Technologies, and Java development. Seeking opportunities to leverage managerial and technical expertise to contribute to the success of a reputable organization and further enhance skills.
+Dedicated and adaptable professional with a diverse background spanning sales, marketing, managerial roles, and technical expertise in AWS cloud services and DevOps technologies. Proven ability to lead teams, manage workloads, and ensure timely delivery. Skilled in client management, relationship building, and navigating audits. Seeking opportunities to leverage my unique blend of managerial and technical knowledge to contribute to your company's success. Please refer to my LinkedIn profile and GitHub repository for further insights into my professional journey and technical projects.
 
-I believe my mix of management and technical skills, along with my understanding of how things flow in a company, could be a real asset to your team.
+I believe my mix of management and technical skills, along with my understanding of how things flow in a company, could be a real asset to the team.
 
 ### Career Objective:
 To join a reputed organization and grow along with it, thereby enriching and enhancing my technical and professional skills.
