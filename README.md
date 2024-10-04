@@ -10,7 +10,7 @@ I excel in both collaborative team settings and as an independent contributor, p
 This Portfilo is hosted on `Github Using CICD`
 
 ##  |[Portfolio](https://themannu.github.io/Portfolio/) |
-This Portfolio is hosted on *AWS S3 Bucket using CICD*
+This Portfolio is hosted on ``AWS S3 Bucket using CICD``
 
 ### Skills:
 
