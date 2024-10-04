@@ -7,10 +7,10 @@ I excel in both collaborative team settings and as an independent contributor, p
 
 ##  |   *[Linkedin](https://www.linkedin.com/in/ashwank)*  |
 ##  |[Portfolio](https://themannu.github.io/Portfolio/)  |  
-    This Portfilo is hosted on Github Using CICD
+    *This Portfilo is hosted on Github Using CICD*
 
 ##  |[Portfolio](https://themannu.github.io/Portfolio/) |
-    This Portfolio is hosted on AWS S3 Bucket using CICD 
+    *This Portfolio is hosted on AWS S3 Bucket using CICD*
 
 ### Skills:
 
