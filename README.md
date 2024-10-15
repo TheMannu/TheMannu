@@ -10,7 +10,7 @@ I excel in both collaborative team settings and as an independent contributor, p
 This Portfilo is hosted on `Github Using CICD`
 
 ##  |[Portfolio](https://ashwani-kumar.s3.amazonaws.com/index.html) |
-This Portfolio is hosted on ``AWS S3 Bucket using CICD``
+This Portfolio is hosted on ``AWS S3 Bucket using Github action CICD``
 
 ### Skills:
 
