@@ -5,12 +5,30 @@
 #### As an enthusiastic candidate, I am looking for Cloud Support Engineer roles or DevOps Roles. 
 I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.
 
-##  |   *[Linkedin](https://www.linkedin.com/in/ashwank)*  |
-##  |[Portfolio](https://themannu.github.io/Portfolio/)  |  
-This Portfilo is hosted on `Github Using CICD`
+##  |*[Linkedin](https://www.linkedin.com/in/ashwank)*  |
+---
+---
+##  |Portfolio - [Ashwani Kumar](https://themannu.github.io/Portfolio/)  |  
+  This Portfilo is hosted on `Github Using CICD`
+---
+---
+## |Portfolio - [Ashwani Kumar](http://ashwani-kumar.s3-website-us-east-1.amazonaws.com) |
+  This Portfolio is hosted on ``AWS S3 Bucket using Github action CICD``
+---
+---
 
-##  |[Portfolio](https://ashwani-kumar.s3.amazonaws.com/index.html) |
-This Portfolio is hosted on ``AWS S3 Bucket using Github action CICD``
+---
+
+Static Portfolio Website hosted on S3 Bucket.
+
+---
+---
+### Portfolio - [Ashwani Kumar](http://ashwani-kumar.s3-website-us-east-1.amazonaws.com)
+---
+---
+
+
+
 
 ### Skills:
 
