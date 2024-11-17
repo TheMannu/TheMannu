@@ -2,8 +2,10 @@
 
 ***Believe In (CLCI) - Continuous Learning Continuous Improvement***
 
-#### As an enthusiastic candidate, I am looking for Cloud Support Engineer roles or DevOps Roles. 
-I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.
+#### As an enthusiastic candidate, with wealth of 3 years of Industry Experience. 
+I excel in workload management, timely delivery, and have led teams while managing clients efficiently. I bring diverse expertise in service, management, and technical knowledge of 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱, 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐇𝐮𝐛, 𝐃𝐨𝐜𝐤𝐞𝐫, 𝐉𝐞𝐧𝐤𝐢𝐧𝐬, 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬, 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 , 𝐀𝐧𝐬𝐢𝐛𝐥𝐞,Implementing 𝐟𝐮𝐥𝐥 𝐂𝐈/𝐂𝐃 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 and optimizing cloud infrastructure.
+
+I'm working in the 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐬𝐩𝐚𝐜𝐞. With hands-on experience in Deploying Automate Scalable and Optimizing Cloud Infrastructure Solutions, I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.I ensure smooth deployments and help teams grow without facing technical roadblocks. My background, coupled with my understanding of workflows, makes me a valuable asset for any team. Let's discuss potential opportunities and how I can contribute to your team's success.
 
 ##  *[Linkedin](https://www.linkedin.com/in/ashwank)* 
 
