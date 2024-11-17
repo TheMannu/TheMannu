@@ -6,14 +6,17 @@
 I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.
 
 ##  *[Linkedin](https://www.linkedin.com/in/ashwank)* 
+
 ---
 ---
 ##  Portfolio - [Ashwani Kumar](https://themannu.github.io/Portfolio/)  
-  This Portfilo is hosted on `Github Using CICD`
+  This Portfilo is hosted on  `Github Using CICD`
+  
 ---
 ---
 ## |Portfolio - [Ashwani Kumar](http://ashwani-kumar.s3-website-us-east-1.amazonaws.com) |
-  This Portfolio is hosted on ``AWS S3 Bucket using Github action CICD``
+  Portfolio is hosted on `AWS S3 Bucket using Github action CICD`
+  
 ---
 ---
 
