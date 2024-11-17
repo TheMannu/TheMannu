@@ -7,19 +7,19 @@ I excel in workload management, timely delivery, and have led teams while managi
 
 I'm working in the 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐬𝐩𝐚𝐜𝐞. With hands-on experience in Deploying Automate Scalable and Optimizing Cloud Infrastructure Solutions, I excel in both collaborative team settings and as an independent contributor, possessing a strong drive for innovation, problem-solving, automation, and troubleshooting.I ensure smooth deployments and help teams grow without facing technical roadblocks. My background, coupled with my understanding of workflows, makes me a valuable asset for any team. Let's discuss potential opportunities and how I can contribute to your team's success.
 
-##  *[Linkedin](https://www.linkedin.com/in/ashwank)* 
+##  *LinkedIn - [Ashwani Kumar](https://www.linkedin.com/in/ashwank)* 
 
----
+
 ---
 ##  Portfolio - [Ashwani Kumar](https://themannu.github.io/Portfolio/)  
   This Portfilo is hosted on  `Github Using CICD`
   
 ---
----
-## |Portfolio - [Ashwani Kumar](http://ashwani-kumar.s3-website-us-east-1.amazonaws.com) |
+
+## Portfolio - [Ashwani Kumar](http://ashwani-kumar.s3-website-us-east-1.amazonaws.com) 
   Portfolio is hosted on `AWS S3 Bucket using Github action CICD`
   
----
+
 ---
 
 
