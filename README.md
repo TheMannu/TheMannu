@@ -79,7 +79,7 @@ To join a reputed organization and grow along with it, thereby enriching and enh
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=TheMannu&theme=github-dark-blue&hide_border=true&border_radius=10&card_width=500" 
       alt="GitHub Streak" 
-      width="500"
+      width="99%"
     />
   </a>
 </p>
