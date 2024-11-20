@@ -69,3 +69,5 @@ To join a reputed organization and grow along with it, thereby enriching and enh
 - 📫 How to reach me: Choose your way to connect  *[Click On ](https://themannu.github.io/Portfolio/)*  
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: You can talk to me for Fun, Its good to have conversation Fun.
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheMannu&theme=github-dark-blue&hide_border=true&border_radius=10&card_width=500&card_height=200)](https://git.io/streak-stats)
