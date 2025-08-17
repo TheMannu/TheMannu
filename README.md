@@ -69,8 +69,9 @@ I excel in workload management and timely delivery, with proven experience leadi
 | Adaptability |
 | Team Player |
 <br>
+
 ### Potency 
-|  | 
+|   | 
 | - | 
 | Belief in organized ways of working |
 | Comprehensive problem-solving abilities |
