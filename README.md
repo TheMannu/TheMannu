@@ -13,11 +13,6 @@ I excel in workload management, timely delivery, and have led teams while managi
 🐳📦 Building and deploying containerized applications using Docker to create scalable environments.<br>
 ⚙️🧪 Automating CI/CD pipelines with Jenkins for smooth and reliable software delivery.<br>
 🛠️📜 Exploring Infrastructure as Code with Terraform to efficiently provision and manage cloud resources.<br>
-🤝👨‍💻 I excel in both collaborative team settings and as an independent contributor, bringing a strong drive for innovation, problem-solving, automation, and troubleshooting.<br>
-⚡📈 I ensure smooth deployments and help teams grow without facing technical roadblocks.<br>
-📚🔍 My background, coupled with my understanding of workflows, makes me a valuable asset for any team.<br>
-💡✨ Let's discuss potential opportunities and how I can contribute to your team's success.
-</p>
 
 
 
