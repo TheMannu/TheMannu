@@ -73,9 +73,9 @@ I excel in workload management and timely delivery, with proven experience leadi
 ### Potency 
 |  | 
 | - | 
+| Belief in organized ways of working |
 | Comprehensive problem-solving abilities |
-| Belief in methodical and organized ways of working |
-| Good verbal and written communication skills |
+| Verbal and written communication skills |
 | Willingness to learn |
 | Hardworking nature |
 | Team facilitator |
