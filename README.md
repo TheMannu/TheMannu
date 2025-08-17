@@ -24,27 +24,26 @@ I excel in workload management and timely delivery, with proven experience leadi
 
 
 
-##  *LinkedIn - [Ashwani Kumar](https://www.linkedin.com/in/ashwank)* 
+###  *LinkedIn - [Ashwani Kumar](https://www.linkedin.com/in/ashwank)* 
 
 
 ---
-##  Portfolio - [Ashwani Kumar](https://themannu.github.io/Portfolio/)  
+###  Portfolio - [Ashwani Kumar](https://themannu.github.io/Portfolio/)  
   This Portfilo is hosted on  `Github Using CICD`
   
 ---
 
-## Portfolio - [Ashwani Kumar](https://ashwani-kumar.s3.amazonaws.com/index.html) 
+###  Portfolio - [Ashwani Kumar](https://ashwani-kumar.s3.amazonaws.com/index.html) 
   Portfolio is hosted on `AWS S3 Bucket using Github action CICD`
   
 
 ---
 
-
 <table>
 <tr>
 <td>
 
-## Skills  
+### Skills  
 | Category                  | Tools / Skills              |
 |---------------------------|-----------------------------|
 | Cloud                     | AWS Cloud                   |
@@ -62,12 +61,16 @@ I excel in workload management and timely delivery, with proven experience leadi
 </td>
 <td>
 
-## Soft Skills  
-| Leadership | Communication | Adaptability | Team Player |
-
+### Soft Skills  
+| |
+|-| 
+| Leadership |
+| Communication |
+| Adaptability |
+| Team Player |
 <br>
 
-## Potency 
+### Potency 
 |  | 
 | - | 
 | Comprehensive problem-solving abilities |
@@ -81,17 +84,12 @@ I excel in workload management and timely delivery, with proven experience leadi
 </tr>
 </table>
 
-
-</td>
-</tr>
-</table>
-
 ## Profile Summary:
 Dedicated and adaptable professional with a diverse background spanning sales, marketing, managerial roles, and technical expertise in AWS cloud services and DevOps technologies. Proven ability to lead teams, manage workloads, and ensure timely delivery. Skilled in client management, relationship building, and navigating audits. Seeking opportunities to leverage my unique blend of managerial and technical knowledge to contribute to your company's success. Please refer to my LinkedIn profile and GitHub repository for further insights into my professional journey and technical projects.
 
 I believe my mix of management and technical skills, along with my understanding of how things flow in a company, could be a real asset to the team.
 
-## Career Objective:
+### Career Objective:
 To join a reputed organization and grow along with it, thereby enriching and enhancing my technical and professional skills.
 
 <!-- Here are some ideas to get you started:-->
