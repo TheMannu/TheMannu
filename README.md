@@ -40,40 +40,58 @@ I excel in workload management and timely delivery, with proven experience leadi
 ---
 
 
-### Skills:
+<table>
+<tr>
+<td>
 
-- AWS Cloud
-- Linux - Ubuntu
-- Scripting - Bash
-- Version Control System - Git, GitHub
-- Containerization - Docker
-- CI / CD - Jenkins, Github Actions
-- Infrastructure as Code - Terraform
-- Orchestration - Kubernetes
-- Programming Language - Java
-- Data Structure Algorithm
-- Documentation
+## Skills  
+| Category                  | Tools / Skills              |
+|---------------------------|-----------------------------|
+| Cloud                     | AWS Cloud                   |
+| Operating System          | Linux (Ubuntu)              |
+| Scripting                 | Bash                        |
+| Version Control           | Git, GitHub                 |
+| Containerization          | Docker                      |
+| CI / CD                   | Jenkins, GitHub Actions     |
+| Infrastructure as Code    | Terraform                   |
+| Orchestration             | Kubernetes                  |
+| Programming Language      | Java                        |
+| Computer Science Concepts | Data Structures & Algorithms|
+| Documentation             | Technical Documentation     |
 
-### Soft Skills:
-- Leadership
-- Communication
-- Adaptability
-- Team Player
+</td>
+<td>
 
-### Potency:
-- Comprehensive problem-solving abilities
-- Belief in methodical and organized ways of working
-- Good verbal and written communication skills
-- Willingness to learn
-- Hardworking nature
-- Team facilitator
+## Soft Skills  
+| Leadership | Communication | Adaptability | Team Player |
 
-### Profile Summary:
+<br>
+
+## Potency 
+|  | 
+| - | 
+| Comprehensive problem-solving abilities |
+| Belief in methodical and organized ways of working |
+| Good verbal and written communication skills |
+| Willingness to learn |
+| Hardworking nature |
+| Team facilitator |
+
+</td>
+</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+## Profile Summary:
 Dedicated and adaptable professional with a diverse background spanning sales, marketing, managerial roles, and technical expertise in AWS cloud services and DevOps technologies. Proven ability to lead teams, manage workloads, and ensure timely delivery. Skilled in client management, relationship building, and navigating audits. Seeking opportunities to leverage my unique blend of managerial and technical knowledge to contribute to your company's success. Please refer to my LinkedIn profile and GitHub repository for further insights into my professional journey and technical projects.
 
 I believe my mix of management and technical skills, along with my understanding of how things flow in a company, could be a real asset to the team.
 
-### Career Objective:
+## Career Objective:
 To join a reputed organization and grow along with it, thereby enriching and enhancing my technical and professional skills.
 
 <!-- Here are some ideas to get you started:-->
