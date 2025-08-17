@@ -2,8 +2,8 @@
 
 ***Believe In (CLCI) - Continuous Learning Continuous Improvement***
 
-#### As an enthusiastic candidate, with wealth of 3 years of Industry Experience. 
-I excel in workload management, timely delivery, and have led teams while managing clients efficiently. I bring diverse expertise in service, management, and technical knowledge of 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬, 𝐢𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐋𝐢𝐧𝐮𝐱, 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐇𝐮𝐛, D𝐨𝐜𝐤𝐞𝐫, 𝐉𝐞𝐧𝐤𝐢𝐧𝐬, 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬, 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦, 𝐀𝐧𝐬𝐢𝐛𝐥𝐞,Implementing 𝐟𝐮𝐥𝐥 𝐂𝐈/𝐂𝐃 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 and optimizing cloud infrastructure.
+#### As an enthusiastic candidate, with wealth of more then 3 years of Industry Experience. 
+I bring strong expertise in 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐚𝐧𝐝 𝐃𝐞𝐯𝐎𝐩𝐬 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬. I have worked extensively with 𝐋𝐢𝐧𝐮𝐱, 𝐆𝐢𝐭, 𝐆𝐢𝐭𝐇𝐮𝐛, D𝐨𝐜𝐤𝐞𝐫, 𝐉𝐞𝐧𝐤𝐢𝐧𝐬, 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦, 𝐀𝐧𝐬𝐢𝐛𝐥𝐞, implementing full 𝐂𝐈/𝐂𝐃 𝐩𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬 and optimizing cloud infrastructure for efficiency and scalability.
 
 ### What I’m Working On:
 
