@@ -69,13 +69,11 @@ I excel in workload management and timely delivery, with proven experience leadi
 | Adaptability |
 | Team Player |
 <br>
-
 ### Potency 
 |  | 
 | - | 
 | Belief in organized ways of working |
 | Comprehensive problem-solving abilities |
-| Verbal and written communication skills |
 | Willingness to learn |
 | Hardworking nature |
 | Team facilitator |
